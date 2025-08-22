@@ -13,7 +13,7 @@
 • 🐍 Beginner in Python 
 • 🗄️ Basic knowledge of C# 
 • 🌐 Familiar with Java & C++ 
-• 📷 Basic Video Editing 
+• 🖥️ Microsoft Office / Google Workspace (documentation & presentations)
 
 📩 Contact
 
